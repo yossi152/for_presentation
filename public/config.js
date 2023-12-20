@@ -1,0 +1,1 @@
+window.baseSever = "http://localhost.tld:5000"

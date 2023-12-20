@@ -1,0 +1,19 @@
+    .pick-file {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    /* position: absolute; */
+    z-index: -1;
+  }
+  .camera-icon {
+    color: blue;
+    font-size: 2rem;
+    margin: 10px;
+  }
+  
+  .trash-icon {
+    color: #dc3545;
+    font-size: 1rem;
+    margin: 10px;
+  }
